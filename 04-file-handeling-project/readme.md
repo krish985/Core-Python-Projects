@@ -1,4 +1,4 @@
-# 📂 File Manager Project (Intermediate)
+# 📂 File Handeling Project (Intermediate)
 
 A simple Python-based file manager that lets you **Create, Read, Update, and Delete (CRUD)** files directly from the terminal.  
 It provides an interactive menu where you can choose operations and manage files easily.
